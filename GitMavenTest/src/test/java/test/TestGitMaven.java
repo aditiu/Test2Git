@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class TestGitMaven {
 
-/*	@Test
+	@Test
 	public void pass() {
 		String s = "Aditi";
 		boolean flag = false;
@@ -15,8 +15,8 @@ public class TestGitMaven {
 			flag = true;
 		}
 		assertTrue(flag);
-	}*/
-	@Test
+	}
+	/*@Test
 	public void fail() {
 		String s = "Ad";
 		boolean flag = false;
@@ -25,5 +25,5 @@ public class TestGitMaven {
 			flag = true;
 		}
 		assertTrue(flag);
-	}
+	}*/
 }
